@@ -3,4 +3,4 @@ theme: jekyll-theme-minimal
 title: "ScreenData"
 description: "A short description of your site's purpose"
 
-logo: ".media/SDImage.png"
+logo: "https://github.com/ServerDriven/website/blob/main/.media/SDImage.png?raw=true"
